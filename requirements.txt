@@ -1,0 +1,6 @@
+pandas
+numpy
+pyshark==0.6
+
+scikit-learn
+schedule
